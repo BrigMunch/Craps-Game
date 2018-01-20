@@ -1,0 +1,9 @@
+Ethan	43	12
+Richard	50	10
+Peter	128	118
+Abigail	138	128
+Jacob	210	100
+Hannah	217	27
+Joseph	500	62
+Emma	598	106
+Anthony	799	-11
