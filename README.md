@@ -1,7 +1,6 @@
 # Craps-Game
 Programming Principles II Final Project
 
-Project Description
 In this game, a player rolls two dice. Each die has six faces.
 Each face contains 1, 2, 3, 4, 5 and 6 spots. After the dice have come to rest, the sum of
 the spots on the two top faces is calculated. If the sum is 7 or 11 on the first throw the
